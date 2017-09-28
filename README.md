@@ -11,4 +11,5 @@ He conseguido transformar los codigos de la siguiente forma;
 
 #3 PS: En este caso he accedido al moddle al apartado de Exemples de llenguatge de marques y he extraído la información y he hecho exactamente lo mismo, añadir el texto en un bloc de notas y luego cambiar su extensión.
 
-#4 RTF: 
+#4 RTF: Para cambiar este código he entrado a moddle y he añadido la información al bloc de notas seguidamente he cambiado su extensión de nuevo.
+
